@@ -1,2 +1,2 @@
-# HTML-personal-site
-Created a personal site using HTML and CSS.
+# HTML-CSS personal-site
+Created a basic personal site using HTML and CSS.
