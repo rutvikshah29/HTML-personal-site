@@ -1,0 +1,38 @@
+body {
+    background-color: #e4f9f5;
+    color: #40514e;
+  }
+  
+  hr {
+    border-color: #30e3ca;
+    border-style: dotted none none;
+    border-width: 7px 0 0;
+    width: 42px;
+  }
+  
+  img {
+  
+    background-color:#11999e85 ;
+    padding:5px ;
+    border-radius: 50%;
+    height: 250px;
+  }
+  
+  p {
+    width: 90%;
+  }
+  
+  h1,
+  h3{
+    color: #11999e;
+  }
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+  }
+  
+  a{
+    color:#11999e;
+  }
